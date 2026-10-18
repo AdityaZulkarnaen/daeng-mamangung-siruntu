@@ -4,7 +4,7 @@ export type LinkItem = {
 };
 
 export const links: LinkItem[] = [
-  { title: "Analisis Anggota", href: null },
+  { title: "Analisis Anggota", href: "https://drive.google.com/file/d/1UXCC-uhId5dqo1K86IwF2uaE0M9VpRgN/view?usp=drive_link" },
   {
     title: "RAB Program Kerja",
     href: "https://docs.google.com/spreadsheets/d/1LC57_60gpUXDwlj2wn5Lz7sl3htrQdHDADvsGjN1WrA/edit?usp=sharing",
@@ -19,6 +19,6 @@ export const links: LinkItem[] = [
   },
   {
     title: "E-KTM Anggota",
-    href: "https://drive.google.com/drive/folders/1vlpg4SsQ_V9oiZEMA_0yhxqu3nu4zeQ8?usp=share_link",
+    href: "https://drive.google.com/drive/folders/1vlpg4SsQ_V9oiZEMA_0yhxqu3nu4zeQ8?usp=sharing",
   },
 ];

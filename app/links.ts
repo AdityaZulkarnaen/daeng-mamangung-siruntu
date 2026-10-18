@@ -7,7 +7,7 @@ export const links: LinkItem[] = [
   { title: "Analisis Anggota", href: null },
   {
     title: "RAB Program Kerja",
-    href: "https://docs.google.com/spreadsheets/d/1WEHuzq_bfoVnUToT2i9apjCw-aIKCk1PwGOB4VGLX70/edit?usp=sharing",
+    href: "https://docs.google.com/spreadsheets/d/1LC57_60gpUXDwlj2wn5Lz7sl3htrQdHDADvsGjN1WrA/edit?usp=sharing",
   },
   {
     title: "Program Kerja",

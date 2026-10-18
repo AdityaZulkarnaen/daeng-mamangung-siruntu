@@ -11,7 +11,7 @@ export const links: LinkItem[] = [
   },
   {
     title: "Program Kerja",
-    href: "https://drive.google.com/drive/folders/1DUBY_9G1-H-Gol2XDbdC1edViKYQWRLc?usp=sharing",
+    href: "https://docs.google.com/spreadsheets/d/18s-P-PUY6G8HUK7fTFDwK_73PKYNaaSopmAAUYqDG54/edit?usp=sharing",
   },
   {
     title: "CV Anggota",
